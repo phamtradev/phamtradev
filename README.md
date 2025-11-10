@@ -11,7 +11,7 @@
 ### Connect with me:
 - [Facebook](https://www.facebook.com/zteaaaaaang/)  
 - [TikTok](https://www.tiktok.com/@nangyeucuatra)
-- [Mail][phamvantra.dev@gmail.com](mailto:phamvantra.dev@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-phamvantra.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamvantra.dev@gmail.com)
 ### Tech Stack
 
 👨‍💻 **Programming Languages**  
