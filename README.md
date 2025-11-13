@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phạm Văn Trà</h1>
 
-* 🌍 I'm based in Ho Chi Minh, Viet Nam
+* 🌍 I'm live in Ho Chi Minh, Viet Nam
 
 * 🧠 I'm learning Software Engineering
 
