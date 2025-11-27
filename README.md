@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Phạm Văn Trà</h1>
-<h1 align="center">Fullstack Developer</h1>
-
+<h1 align="center">Hi👋, I'm Pham Tra</h1>
+<[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer+%3E%3C)](https://git.io/typing-svg)
+  
 * 🌍 I'm live in Ho Chi Minh, Viet Nam
 
 * 🧠 I'm learning Software Engineering
