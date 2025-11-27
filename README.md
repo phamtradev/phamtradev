@@ -1,14 +1,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Pham+Tra+%3E%3C;I'm+a+Full-Stack+Developer+%3C%2F%3E;Love+to+learn+new+stuffs..+%3C3" alt="Typing SVG" /></a>
 
-* 🌍 I'm live in Ho Chi Minh, Viet Nam
-
-* 🧠 I'm learning Software Engineering
-
-  </h3>
-
-- 🌱 I’m currently learning **SpringBoot, ReactJs**
-
 ### Connect with me:
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/zteaaaaaang)
