@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Pham+Tra+%3E%3C;I'm+a+Full-Stack+Developer+%3C%2F%3E;Industrial+University+of+Ho+Chi+Minh+City" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Pham+Tra+%3E%3C;I'm+a+Full-Stack+Developer+%3C%2F%3E;Industrial+University+of+HCM+City" alt="Typing SVG" /></a>
 
 ### Connect with me:
 
