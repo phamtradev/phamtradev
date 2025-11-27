@@ -1,6 +1,5 @@
-<h1 align="center">Hi👋, I'm Pham Tra</h1>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer+%3E%3C;React;Spring+Boot" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Pham+Tra+%3E%3C;I'm+a+Full-Stack+Developer+%3C%2F%3E;Love+to+learn+new+stuffs..+%3C3" alt="Typing SVG" /></a>
 
 * 🌍 I'm live in Ho Chi Minh, Viet Nam
 
