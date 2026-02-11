@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg">
+<a>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Pham+Van+Tra;I'm+a+Full-Stack+Developer+%3C%2F%3E;Grinding+to+master+Java+Backend+%F0%9F%8D%83" alt="Typing SVG" />
 </a>
 
