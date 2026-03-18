@@ -11,7 +11,6 @@ I hope to grow into a DevOps Engineer, recognized for building stable, efficient
 ## 💻 Tech Stack
 **Frontend:** React • TypeScript • TailwindCSS • Shadcn/ui  
 **Backend:** Spring Boot • Spring Cloud • Microservices
-
 **Database:** MySQL • MongoDB • PostgreSQL  
 **Tools:** Docker • Git • Jenkins • Bruno • Postman • Linux
 **Cloud:** AWS • EC2 • ES3
