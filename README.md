@@ -3,7 +3,9 @@
 **Full-Stack Developer** | **Ho Chi Minh City, Vietnam**
 
 My primary programming languages are Java and JavaScript, and my long-term focus is on DevOps — where software development meets system operations. I am particularly interested in building automation workflows, optimizing CI/CD pipelines, and improving system reliability.
+
 In recent months, I have been focusing on designing and implementing infrastructure using Infrastructure as Code (IaC), ensuring consistency, scalability, and ease of management across modern deployment environments.
+
 I hope to grow into a DevOps Engineer, recognized for building stable, efficient, and thoughtfully designed infrastructure systems.
 
 ## 💻 Tech Stack
@@ -13,7 +15,10 @@ I hope to grow into a DevOps Engineer, recognized for building stable, efficient
 **Tools:** Docker • Git • Jenkins • Bruno • Postman • Linux
 **Cloud:** AWS • EC2 • ES3
 
-## 📫 Follow me on: ## 📫 Follow me on: **[LinkedIn](https://www.linkedin.com/in/phamtradev/)** | [![Email](https://img.shields.io/badge/Email-phamvantra.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamvantra.dev@gmail.com) | **[Facebook](https://www.facebook.com/zteaaaaaang)**
+## 📫 Follow me on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-phamtradev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phamtradev/)
+[![Email](https://img.shields.io/badge/Email-phamvantra.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamvantra.dev@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-zteaaaaaang-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zteaaaaaang)
 
 ## More Tech Stack:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
