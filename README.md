@@ -10,10 +10,10 @@ I hope to grow into a DevOps Engineer, recognized for building stable, efficient
 
 ## 💻 Tech Stack
 **Frontend:** React • TypeScript • TailwindCSS • Shadcn/ui  
-**Backend:** Spring Boot • Spring Cloud • Microservices
+**Backend:** Spring Boot • Spring Cloud • Microservices  
 **Database:** MySQL • MongoDB • PostgreSQL  
-**Tools:** Docker • Git • Jenkins • Bruno • Postman • Linux
-**Cloud:** AWS • EC2 • ES3
+**Tools:** Docker • Git • Jenkins • Bruno • Postman • Linux  
+**Cloud:** AWS • EC2 • S3
 
 ## 📫 Follow me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-phamtradev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phamtradev/)
